@@ -11,7 +11,7 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
   <li><b>DevOps :</b> Linux, Git, Docker</li>
 </ul>
 
-<h1>Job experiences <span style='font-size:100px;'>&#128084;</span></h1>
+<h1>Work experiences <span style='font-size:100px;'>&#128084;</span></h1>
 
 <table>
   <tr>
