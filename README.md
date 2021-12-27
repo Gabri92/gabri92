@@ -5,6 +5,11 @@ I'm passionate about robotics and videogames, looking for opportunities in both 
 I mainly code in C, C++ and I have some experiences with Python. As an engineer, I halvo have some skills with Matlab and its tools.
 
 <h1>Computer skills <span style='font-size:100px;'>&#128187;</span></h1>
+<ul>
+  <li><b>Languages :</b>  C++, C, Python </li>
+  <li><b>IDE :</b> Visual Studio Code, Matlab</li>
+  <li><b>DevOps :</b> Linux, Git, Docker</li>
+</ul>
 
 <h1>Job experiences <span style='font-size:100px;'>&#128084;</span></h1>
 
