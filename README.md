@@ -29,7 +29,7 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
   <tr>
     <td>Research assistant</td>
     <td>Sant'Anna School of Advanced Studies</td>
-    <td>Control R&D Engineer</td>
+    <td>R&D Firmware Engineer</td>
     <td>February '21 - </td>
   </tr>
 </table>
