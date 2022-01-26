@@ -21,12 +21,6 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
     <th>Work period</th>
   </tr>
   <tr>
-    <td>Thesis student</td>
-    <td>Comau</td>
-    <td>Control software engineer</td>
-    <td>March '19 - December '19</td>
-  </tr>
-  <tr>
     <td>Research assistant</td>
     <td>Sant'Anna School of Advanced Studies</td>
     <td>Modelling and simulation</td>
