@@ -8,7 +8,7 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
 <ul>
   <li><b>Languages :</b>  C++, C, Python </li>
   <li><b>IDE :</b> Visual Studio Code, Matlab</li>
-  <li><b>DevOps :</b> Linux, Git, Docker</li>
+  <li><b>DevOps :</b> Linux, Git</li>
 </ul>
 
 <h1>Work experiences <span style='font-size:100px;'>&#128084;</span></h1>
