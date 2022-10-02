@@ -23,19 +23,19 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
   <tr>
     <td>Research assistant</td>
     <td>Sant'Anna School of Advanced Studies</td>
-    <td>Modelling and simulation</td>
+    <td>Research</td>
     <td>February '20 - February '21</td>
   </tr>
   <tr>
     <td>Research assistant</td>
     <td>Sant'Anna School of Advanced Studies</td>
-    <td>R&D Firmware Engineer</td>
+    <td>Research & Automation</td>
     <td>February '21 - May '22 </td>
   </tr>
     <tr>
-    <td>Research assistant</td>
-    <td>Sant'Anna School of Advanced Studies</td>
-    <td>R&D Firmware Engineer</td>
+    <td>Software Robotics Engineer</td>
+    <td>ESA Automation</td>
+    <td>Robotics</td>
     <td>July '22 - </td>
   </tr>
 </table>
