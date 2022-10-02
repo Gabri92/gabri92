@@ -30,6 +30,12 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
     <td>Research assistant</td>
     <td>Sant'Anna School of Advanced Studies</td>
     <td>R&D Firmware Engineer</td>
-    <td>February '21 - </td>
+    <td>February '21 - May '22 </td>
+  </tr>
+    <tr>
+    <td>Research assistant</td>
+    <td>Sant'Anna School of Advanced Studies</td>
+    <td>R&D Firmware Engineer</td>
+    <td>July '22 - </td>
   </tr>
 </table>
