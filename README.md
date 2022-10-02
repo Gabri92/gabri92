@@ -1,8 +1,9 @@
 <h1>Hello everyone <span style='font-size:100px;'>&#9996;</span></h1>
 
-I'm Gabriele Baldi. I'm an automation engineer, actually living in Italy, and currently employed in a research project regarding laboratory automation. 
-I'm passionate about technology, robotics and videogames, looking for opportunities in these fields. 
-I mainly code in C, C++ and I have some experiences with Python. As an engineer, I halso have some skills with Matlab and its tools.
+I'm a mechatronic engineer, with some experience in the field of automation and robotics.
+What motivated me to get a specialization in this field was my interest in
+robotics during my university years.
+Nevertheless, during my first years of work, I've also developed a strong curiosity towards tech and computer science world.
 
 <h1>Computer skills <span style='font-size:100px;'>&#128187;</span></h1>
 <ul>
