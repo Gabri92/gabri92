@@ -6,9 +6,9 @@ I mainly code in C, C++ and I have some experiences with Python. As an engineer,
 
 <h1>Computer skills <span style='font-size:100px;'>&#128187;</span></h1>
 <ul>
-  <li><b>Languages :</b>  C++, C, Python </li>
-  <li><b>IDE :</b> Visual Studio Code, Matlab</li>
-  <li><b>DevOps :</b> Linux, Git</li>
+  <li><b>Languages :</b> C, C#, VB, Python </li>
+  <li><b>IDE :</b> Visual Studio, VS Code, Matlab</li>
+  <li><b>DevOps :</b> Git, SourceTree, Bitbucket</li>
 </ul>
 
 <h1>Work experiences <span style='font-size:100px;'>&#128084;</span></h1>
