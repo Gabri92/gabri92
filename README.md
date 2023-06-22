@@ -7,7 +7,7 @@ Nevertheless, during my first years of work, I've also developed a strong curios
 
 <h1>Computer skills <span style='font-size:100px;'>&#128187;</span></h1>
 <ul>
-  <li><b>Languages :</b> C, C#, VB, Python </li>
+  <li><b>Languages :</b> C, C#, VB, Dart, Python </li>
   <li><b>IDE :</b> Visual Studio, VS Code, Matlab</li>
   <li><b>DevOps :</b> Git, SourceTree, Bitbucket</li>
 </ul>
