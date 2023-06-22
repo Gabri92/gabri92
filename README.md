@@ -37,6 +37,6 @@ Nevertheless, during my first years of work, I've also developed a strong curios
     <td>Software Robotics Engineer</td>
     <td>ESA Automation</td>
     <td>Robotics</td>
-    <td>July '22 - </td>
+    <td>July '22 - May 2023</td>
   </tr>
 </table>
