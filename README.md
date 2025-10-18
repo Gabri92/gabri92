@@ -1,9 +1,7 @@
 <h1>Hello everyone <span style='font-size:100px;'>&#9996;</span></h1>
 
-<p>I'm a Software Engineer with a Master’s degree in Mechatronic Engineering and a strong foundation in automation, robotics,
-and IoT systems. Designing and implementing efficient, innovative, and robust solutions is at the heart of my work, as is
-collaborating with others to solve complex problems. I believe in the power of technology to transform industries and
-improve lives.</p>
-<p></p>I’m also deeply interested in product management and business development within the technology sector, aiming to
-connect technical solutions with market needs to create meaningful impact.</p>
-<p>Ah... I'm also a nerd and passionate about gaming and game development.</p>
+I am a Software Engineer with a Master’s degree in Mechatronic Engineering and five years of experience developing software solutions across control systems, desktop, web, and mobile applications.
+
+My work revolves around designing and implementing efficient, innovative, and reliable solutions, always with a focus on collaboration to address complex challenges.
+
+Alongside my engineering expertise, I have a strong interest in product and business aspects of technology, seeking to bridge the gap between technical innovation and market needs to deliver solutions that create tangible impact.
